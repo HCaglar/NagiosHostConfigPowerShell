@@ -1,6 +1,6 @@
-## Welcome to Nagios Host Config Powershell GitHub Page
+## Nagios Host Config Powershell GitHub Sayfasına hoş geldiniz.
 
-Bu dosyanın [Türkçe sürümüne bu adresden](https://github.com/HCaglar/NagiosHostConfigPowerShell/blob/master/README_TR.md) erişebilirsiniz.
+You can access the [English version of this page at](https://github.com/HCaglar/NagiosHostConfigPowerShell/blob/master/README.md).
 
 [Nagios](www.nagios.org) açık kaynak bir sistem izleme uygulamasıdır.
 Bu powershell betik dosyası ile CSV bir dosyadan katırları okuyarak, Nagios Host config dosyası oluşturabilrisiniz.
