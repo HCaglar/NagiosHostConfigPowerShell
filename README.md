@@ -1,8 +1,8 @@
 ## Welcome to Nagios Host Config Powershell GitHub Page
 
-Bu dosyanın [Türkçe sürümüne bu adresden](https://github.com/HCaglar/NagiosHostConfigPowerShell/blob/master/README_TR.md) erişebilirsiniz.
+Bu sayfanın [Türkçe sürümüne bu adresden](https://github.com/HCaglar/NagiosHostConfigPowerShell/blob/master/README_TR.md) erişebilirsiniz.
 
-[Nagios](www.nagios.org) is an open source monitoring system.
+[Nagios](https://www.nagios.org) is an open source monitoring system.
 You can create Nagios host configuration file for more than one hosts with this simple Powershell script by using a CSV file.
 
 ```markdown
