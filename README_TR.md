@@ -20,7 +20,7 @@ Host_Tux_Server,192.168.0.2,linux-server,Tux_Logo.png,gw_device
 Powershell betiği şu şekilde kullanabilirsiniz:
 
 ```markdown
-`.\Nagios_Host_Config.ps1 -hostfile hosts.csv -outconfig sampleConfig.txt`
+`.\Nagios_Host_Config.ps1 -hostfile hosts.csv -configfile sampleConfig.txt`
 ```
 
 Örnek bir config dosya şu şekilde oluşturulacaktır:
