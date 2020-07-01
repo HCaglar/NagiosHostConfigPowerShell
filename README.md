@@ -51,3 +51,4 @@ define host {
 icon_image        Tux_Logo.png
 }
 ```
+You can find the script [here:](https://github.com/HCaglar/NagiosHostConfigPowerShell/blob/master/Nagios_Host_Config.ps1)

@@ -17,7 +17,7 @@ Host_Tux_Server,192.168.0.2,linux-server,Tux_Logo.png,gw_device
 
 ```
 
-The powershell betiği şu şekilde kullanabilirsiniz:
+Powershell betiği şu şekilde kullanabilirsiniz:
 
 ```markdown
 `.\Nagios_Host_Config.ps1 -hostfile hosts.csv -outconfig sampleConfig.txt`
@@ -53,3 +53,4 @@ define host {
 icon_image        Tux_Logo.png
 }
 ```
+Powershell betik dosyasını [burada bulabilirsiniz:](https://github.com/HCaglar/NagiosHostConfigPowerShell/blob/master/Nagios_Host_Config.ps1)
