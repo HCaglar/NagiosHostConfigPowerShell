@@ -2,9 +2,9 @@
 
 You can access the English version of this page by clicking this [link.](https://github.com/HCaglar/NagiosHostConfigPowerShell/blob/master/README.md)
 
-[Nagios](https://www.nagios.org) açık kaynak bir sistem izleme uygulamasıdır.
+[Nagios](https://www.nagios.org) açık kaynak bir sistem ve ağ izleme uygulamasıdır.
 
-Bu powershell betik dosyası ile CSV bir dosyadan satırları okuyarak, Nagios Host config dosyası oluşturabilrisiniz.
+Bu powershell betiği ile CSV bir dosyadan kayıtları okuyarak, Nagios Host config dosyası oluşturabilirsiniz.
 
 
 ```markdown
