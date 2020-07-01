@@ -2,11 +2,12 @@
 
 Bu dosyanın [Türkçe sürümüne bu adresden](https://github.com/HCaglar/NagiosHostConfigPowerShell/blob/master/README_TR.md) erişebilirsiniz.
 
-[Nagios](www.nagios.org) is an open source monitoring system.
-You can create Nagios host configuration file for more than one hosts with this simple Powershell script by using a CSV file.
+[Nagios](www.nagios.org) açık kaynak bir sistem izleme uygulamasıdır.
+Bu powershell betik dosyası ile CSV bir dosyadan katırları okuyarak, Nagios Host config dosyası oluşturabilrisiniz.
+
 
 ```markdown
-Sample CSV File:
+Örnek CSV dosya:
 
 HostName,IP,TemplateName,Logo,ParentHost
 Host_gw_device,192.168.0.254,network_device,net_device_logo.png,Nagios_Host
@@ -15,13 +16,13 @@ Host_Tux_Server,192.168.0.2,linux-server,Tux_Logo.png,gw_device
 
 ```
 
-The powershell script can be used as:
+The powershell betiği şu şekilde kullanabilirsiniz:
 
 ```markdown
 `.\Nagios_Host_Config.ps1 -hostfile hosts.csv -outconfig sampleConfig.txt`
 ```
 
-The output file will be as:
+Örnek bir config dosya şu şekilde oluşturulacaktır:
 
 ```markdown
 define host {
